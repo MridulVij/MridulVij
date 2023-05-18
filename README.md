@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mridul Vij</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
-<h2 align = "center"> Want to Become a SDE / Full Stack App Developer</h2>
+<h2 align = "center"> Want to Become a SDE / Full Stack Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulvij&label=Profile%20views&color=0e75b6&style=flat" alt="mridulvij" /> </p>
 
