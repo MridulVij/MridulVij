@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter Bloc, Node.js, React.js**
 
-- 💬 Ask me about **flutter, node.js, firebase, express.js, mongoDB**
+- 💬 Ask me about **flutter, React.js, node.js, firebase, express.js, mongoDB, GraphQL**
 
 - 📫 How to reach me **mridulvig2001@gmail.com**
 
