@@ -2,7 +2,7 @@
 <h3 align="center">Im a Full Stack Developer from India</h3>
 <h2 align = "center"> Want to Become an Ai Engineer/Developer </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulvij&label=Profile%20views&color=0e75b6&style=flat" alt="mridulvij" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mridulvij&label=Profile%20views&color=0e75b6&style=flat" alt="mridulvij" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
