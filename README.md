@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Bloc, Node.js, React.js**
+- 🌱 I’m currently learning **LLM's, NLP's, ,Node.js, React.js**
 
 - 💬 Ask me about **flutter, React.js, node.js, firebase, express.js, mongoDB, GraphQL**
 
